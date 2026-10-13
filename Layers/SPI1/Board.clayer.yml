@@ -43,7 +43,7 @@ layer:
     - pack: Keil::STM32G0xx_DFP@^2.0.0-0
     - pack: Keil::NUCLEO-G0B1RE_BSP@^2.0.0-0
     - pack: ARM::CMSIS-Driver_STM32@^1.2.0-0
-    - pack: ARM::CMSIS@^6.0.0
+    - pack: ARM::CMSIS@6.4.0
     - pack: ARM::CMSIS-Compiler@^2.0.0
 
   components:
